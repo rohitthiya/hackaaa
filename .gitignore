@@ -1,0 +1,9 @@
+gitignorenode_modules/
+.env
+.env.local
+dist/
+build/
+coverage/
+.vscode/
+*.log
+.DS_Store
