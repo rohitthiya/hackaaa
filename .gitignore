@@ -1,4 +1,5 @@
-gitignorenode_modules/
+gitignore
+node_modules/
 .env
 .env.local
 dist/
